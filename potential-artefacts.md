@@ -29,4 +29,6 @@ I'm pleased to be curating the keyword 'history' for [keywords in the digital hu
 20. Speaking of fun, [Operation Lapis](http://www.practomime.com/lapis/lapis.php) is one of the best examples of game-based pedagogy applied to teaching, that spools out over two years(!).
 21. [Play the past](http://playthepast.org) while this project has slipped into somnessence, it is still one of the best and thoughtful places discussing the intersection of history (writ large) & games (writ larger) on the web, and the vast collection of work here continues to inspire and motivate me.
 
-Well, that's all that springs to mind. I need to whittle this down to 10. Implicit through all of this is my 'curatorial statement', which is currently still on my machine but will appear in this repo in due course.
+Well, that's all that springs to mind. I need to whittle this down to 10. Implicit through all of this is my 'curatorial statement', which is currently still on my machine but will appear in this repo in due course. 
+
+Feedback appreciateed; you can click on 'issues' for this repo to leave me a note.
