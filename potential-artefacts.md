@@ -2,7 +2,7 @@ I'm pleased to be curating the keyword 'history' for [keywords in the digital hu
 
 ## things that have influenced/inspired my pedagogy as an historian
 
-... keeping in mind that I trained as an archaeologist; the training of an archaeologist necessarily includes a lot of hands-on, a lot of 'doing'; what's more, it's often a kind of doing that depends on productive collaboration within a larger team. This is partly what helped to enable my transition into whatever this thing 'digital history' is. I often reflect, as I listen to grad students riff on a literature that I have not read (ha, how many of them have read Shanks & Tilley, I ask you), that I'm not much of a historian. No matter; it's what keeps me employed, right?
+... keeping in mind that I trained as an archaeologist; the training of an archaeologist necessarily includes a lot of hands-on, a lot of 'doing'; what's more, it's often a kind of doing that depends on productive collaboration within a larger team. This is partly what helped to enable my transition into whatever this thing 'digital history' is. I often reflect, as I listen to grad students riff on a literature that I have not read (ha, how many of them have read Shanks & Tilley, I ask you), that I'm not much of a historian. No matter; it's what keeps me employed, right? In the instructions for contributors, we were specifically directed to highlight things that do not turn up in the traditional venues (journal articles, books, etc).
 
 ### in no particular order...
 
