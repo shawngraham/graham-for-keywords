@@ -1,4 +1,6 @@
-# things that have influenced/inspired my pedagogy as an historian
+I'm pleased to be curating the keywork 'history' for [keywords in the digital humanities](https://github.com/curateteaching/digitalpedagogy). I've been instructed to select artefacts that highlight the intersection of 'history' with digital pedagogy, its key concepts and practices. I've been approaching this project backwards, first identifying then working backwards from the things that have inspired me to the curatorial statement. Of course, when you read the finished work, you'll encounter my statement first. Just remember, I do most things back to front. Cum grano salis, as they say... 
+
+## things that have influenced/inspired my pedagogy as an historian
 
 ... keeping in mind that I trained as an archaeologist; the training of an archaeologist necessarily includes a lot of hands-on, a lot of 'doing'; what's more, it's often a kind of doing that depends on productive collaboration within a larger team. This is partly what helped to enable my transition into whatever this thing 'digital history' is. I often reflect, as I listen to grad students riff on a literature that I have not read (ha, how many of them have read Shanks & Tilley, I ask you), that I'm not much of a historian. No matter; it's what keeps me employed, right?
 
