@@ -30,7 +30,7 @@ I'm pleased to be curating the keyword 'history' for [keywords in the digital hu
 19. [Miriam Posner's students' class project, New Jersey Shipwrecks](http://njshipwrecks.com/) is another beautiful project - and the sheer fun the students had whilst making it shines clearly through.
 20. [Miriam's how did they make that?](http://miriamposner.com/blog/how-did-they-make-that/) and [Tiffany Chan's version for undergraduate digital history](http://slides.com/tiffchan/hdtmt#/)
 20. Speaking of fun, [Operation Lapis](http://www.practomime.com/lapis/lapis.php) is one of the best examples of game-based pedagogy applied to teaching, that spools out over two years(!).
-21. [Play the past](http://playthepast.org) while this project has slipped into somnessence, it is still one of the best and thoughtful places discussing the intersection of history (writ large) & games (writ larger) on the web, and the vast collection of work here continues to inspire and motivate me.
+21. [Play the past](http://playthepast.org) while this project has slipped into somnessence, it is still one of the best and thoughtful places discussing the intersection of history (writ large) & games (writ larger) on the web, and the vast collection of work here continues to inspire and motivate me. [Read Rebecca Mir](http://www.playthepast.org/?author_name=mir), and also Angela Cox's series on [teaching games as texts](http://www.playthepast.org/?author_name=cox)
 
 Well, that's all that springs to mind. I need to whittle this down to 10. Implicit through all of this is my 'curatorial statement', which is currently still on my machine but will appear in this repo in due course. 
 
