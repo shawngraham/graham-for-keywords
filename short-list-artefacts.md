@@ -1,6 +1,8 @@
 
 # Artefacts for Keywork, 'history'
 
+(ha, bit of a slip there. should be 'keywords', but I like the word, 'keywork')
+
 Of course, lots of my artefacts are not necessarily built by card-carrying historians. I suspect that doesn't matter, right? Anyway...
 
 + What's Wrong with Writing Essays? Mark Sample. Appears in a couple of different versions online. Ur-text here: http://www.samplereality.com/2009/03/12/whats-wrong-with-writing-essays/ . Crystalizes the issue around essays: we are too much concerned with 'form' and forgetting about 'content', moreover, that 'writing' could mean something far more expansive. The 'textus' bit really struck me back when I first started at Carleton (when I had to learn how to be an academic all over again). No license on the blog post, but the other versions...
