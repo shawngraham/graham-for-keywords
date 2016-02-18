@@ -10,6 +10,8 @@ Therefore, my vision of what 'history' means as a keyword in digital pedagogy is
 
 The artefacts collected below thus represent key moments/movements/examples that establish ways for us to employ this vision of the digital pedagogy of history, whether that teaching takes place in a classroom or in public, online or off. Every university has a course called 'the Historian's craft' on the catalogue: so let us stop writing and start crafting. A digital pedagogy is a pedagogy of making, whether the resulting object is digital or analogue. Digital; digits; fingers; play.
 
+The artefacts below are arranged in an order that should facilitate the integration of digital pedagogies into one's teaching and research.
+
 
 My thanks to Rebecca Frost Davis for inviting me to contribute, and for many fruitful and stimulating conversations!
 
