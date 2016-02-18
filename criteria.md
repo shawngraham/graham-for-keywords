@@ -1,16 +1,6 @@
-# Criteria
+# Curatorial Statement, 'history', keywords in digital humanities pedagogy
 
-In the instructions I received, I am told:
-
-> The curatorial statement expresses your vision of the keyword — what it means in a pedagogical context and how you approached the task of curating pedagogical artifacts around it. Statements can include some or all of the following:
-
-> Vision statement (how do you envision or understand this keyword and its relation to pedagogy?)
-> Scholarly rationale for selections
-> Criteria for selections (why were the specific curated artifacts selected?)
-> Important issues (why teach this now? why does this topic matter for students? for faculty? for a field? what makes this keyword unique or exemplary for digital pedagogy?)
-> Particular intersections with your pedagogical philosophy/teaching conditions (how and where do you teach issues related to this keyword? in what course(s)? with what learning expectations/outcomes in mind? with or without what resources? what are your students' backgrounds, interests, or investments?)
-> Unless it draws upon your first-person experience in the classroom, please limit the use of first person.
-
+_just thinking out loud here_
 
 Is there a material difference between 'digital pedagogy' and 'online learning'? If we think of 'being a student' as a kind of game with a clear end goal in mind (credentials), then one difference is that the former breaks us out of conventions, whilst the other reinforces them. 'Online education' is about recreating a controllable, observable 'classroom' through a system that watches and observes everything. Digital pedagogy cannot easily be fit inside the 'systems' that 'manage' our 'learning'. Similarly, in the game of 'being an academic historian', the focus on the monograph and the article as the so-called 'coin of the realm' (b&m 2015, p39) reinforces the existing status quo, while work that transgresses these norms does not fit, and is only slowly being recognized (Gibbs 2016; Robertson 2016) despite twenty years or more of work. 
 
