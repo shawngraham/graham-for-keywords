@@ -39,3 +39,12 @@ I'm pleased to be curating the keyword 'history' for [keywords in the digital hu
 Well, that's all that springs to mind. I need to whittle this down to 10. Implicit through all of this is my 'curatorial statement', which is currently still on my machine but will appear in this repo in due course. 
 
 Feedback appreciateed; you can click on 'issues' for this repo to leave me a note.
+
+----
+
+More potential artefacts
+
++ Sayers et al early wearables kit https://github.com/uvicmakerlab/earlyWearablesKit
++ Elliott, Devon twitter telegraph http://devonelliott.net/2015/02/06/twitter-telegraph/
++ Morgan et al minecraft for archaeological outreach https://middlesavagery.wordpress.com/2015/09/28/minecraft-for-archaeological-outreach/
++ Jones, Cooper Among the Ruins http://www.heritagejam.org/2015exhibitionentries/2015/9/26/among-the-ruins-matthew-tyler-jones-and-catriona-cooper
