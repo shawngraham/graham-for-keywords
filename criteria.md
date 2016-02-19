@@ -25,3 +25,14 @@ sample, what's wrong with writing essays
 http://www.samplereality.com/2009/03/12/whats-wrong-with-writing-essays/
 http://quod.lib.umich.edu/d/dh/12172434.0001.001/1:3/--hacking-the-academy-new-approaches-to-scholarship?g=dculture;rgn=div1;view=fulltext;xc=1#3.6
 http://dhdebates.gc.cuny.edu/debates/text/42
+
+O'donnell, unessay
+
+Sheila Brennan:
+https://twitter.com/sherah1918/status/700363335078903809
+
+https://twitter.com/sherah1918/status/700364507747590144
+
+https://twitter.com/sherah1918/status/700365148251410437
+
+https://twitter.com/sherah1918/status/700366222832041984
