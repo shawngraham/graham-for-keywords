@@ -5,11 +5,11 @@
 
 Of course, lots of my artefacts are not necessarily built by card-carrying historians. I suspect that doesn't matter, right? Anyway...
 
-## What's Wrong with Writing Essays? Mark Sample. Appears in a couple of different
+## What's Wrong with Writing Essays?
 ![img](/img/history-MarkSample-wrong-with-essays.png)
 + Artifact Type: description of an assignment that imagines 'writing' to be more akin to 'making'
 + Source URL:http://www.samplereality.com/2009/03/12/whats-wrong-with-writing-essays/
-+ Artifact Permissions: no license appears
++ Artifact Permissions: no license appears. 
 Copy of the Artifact (in HTML, PDF, DOCX, TXT, MD, RTF, MP3, MP4, MOV, PNG, or JPG), if possible
 + Creator and Affiliation: Mark Sample, Davidson College
 
