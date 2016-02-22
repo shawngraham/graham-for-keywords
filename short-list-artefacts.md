@@ -22,7 +22,7 @@ This piece crystalizes the issue around essays: we are too much concerned with '
 + Artefact Permissions: CC BY-NC-SA 3.0
 + Creator and Affiliation: Daniel Paul O'Donnell, University of Lethbridge
 
-This piece similarly documents problems with 'essays' as they have come to be. What's more, it provides a framework for re-situating them as digital pedagogy, returning agency to the student, and an entirely operationalizeable (if that's a word) set of criteria for assessing work that does not look like traditional forms.
+This piece similarly documents problems with 'essays' as they have come to be in the modern undergraduate classroom. What's more, it provides a framework for re-situating them as digital pedagogy, returning agency to the student, and an entirely useful set of criteria for assessing work that does not look like traditional forms. The criteria provided can be transformed into a rubric with two criteria, that the work is 'compelling' and 'effective'. 
 
 
 ## The HeritageJam
