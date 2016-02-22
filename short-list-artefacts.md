@@ -9,11 +9,11 @@ Of course, lots of my artefacts are not necessarily built by card-carrying histo
 ![img](/img/history-MarkSample-wrong-with-essays.png)
 + Artifact Type: description of an assignment that imagines 'writing' to be more akin to 'making'
 + Source URL:http://www.samplereality.com/2009/03/12/whats-wrong-with-writing-essays/
-+ Artifact Permissions: no license appears. 
++ Artifact Permissions: no license appears.
 Copy of the Artifact (in HTML, PDF, DOCX, TXT, MD, RTF, MP3, MP4, MOV, PNG, or JPG), if possible
 + Creator and Affiliation: Mark Sample, Davidson College
 
-This piece crystalizes the issue around essays: we are too much concerned with 'form' and forgetting about 'content', moreover, that 'writing' could mean something far more expansive. Sample offers an example of an assignment designed to 'take the words out of writing'.
+This piece crystalizes the issue around essays: we are too much concerned with 'form' and forgetting about 'content'. He points out that 'text' derives from the Latin 'to weave', and uses that metaphor to suggest expanding the range of possibilities. Accordingly, Sample offers an example of an assignment designed to 'take the words out of writing', a prompt to create an 'abstract mapping' of a videogame's underlying complexity and representation of the world. A similar prompt could be devised for domains beyond the representation of history in videogames, for instance, the organization of an archival fonds.
 
 ## The Unessay
 ![img](/img/history-odonnell-unessay.png)
@@ -26,11 +26,11 @@ This piece similarly documents problems with 'essays' as they have come to be in
 
 ## Open Notebook History
 ![img](/img/history-wcalebmcdaniel-wiki-screenshot.png)
-+ Artificat Type: blog reflections
++ Artifact Type: blog reflection
 + Source Url: http://wcm1.web.rice.edu/open-notebook-history.html
 + Artefact Permissions: CC BY-SA 3.0
 + Creator and Affiliation: W. Caleb McDaniel
-McDaniel opens a dialogue with proponents of so-called 'open notebook science', and situates it within practices familiar to historians (a process similar to what Chad Black has called, ['Hacking the Papers of You'](https://parezcoydigo.wordpress.com/2010/05/28/the-individual-research-archive-hacking-the-papers-of-you/)). McDaniel argues that we cannot know the full value of what we have until we allow others to see it; if we did so, while the work was in progress, "we also open new avenues of interpretation, uncover new linkages between things we would otherwise have persisted in seeing as unconnected, and create new opportunities for collaboration with fellow travelers." He outlines the use of Gitit, a personal wiki program combined with Git versioning control, for maintaining such a notebook. Gitit has a steep learning curve; others might want to use a combination of text editor ang github repository to achieve the same effect.
+McDaniel opens a dialogue with proponents of so-called 'open notebook science', and situates it within practices familiar to historians (a process similar to what Chad Black has called, ['Hacking the Papers of You'](https://parezcoydigo.wordpress.com/2010/05/28/the-individual-research-archive-hacking-the-papers-of-you/)). McDaniel argues that we cannot know the full value of what we have until we allow others to see it; if we did so, while the work was in progress, "we also open new avenues of interpretation, uncover new linkages between things we would otherwise have persisted in seeing as unconnected, and create new opportunities for collaboration with fellow travelers." He outlines the use of Gitit, a personal wiki program combined with Git versioning control, for maintaining such a notebook. Gitit has a steep learning curve; others might want to use a combination of text editor and github repository to achieve the same effect.
 
 ## Writing in Public
 [Writing in Public, Michelle Moravec](http://michellemoravec.com/michelle-moravec/) Michelle's work is a fearless example of putting it all out there, and I direct my students to reflect on this.
