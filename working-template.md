@@ -1,65 +1,116 @@
-# KEYWORD ENTRY TEMPLATE
+# HISTORY
 
-**Note: Maximum Length for each keyword entry (including works cited) is 3000 words**
-
-**The entry should be authored in Markdown, saved as an .md file. If you'd like, then you can simply copy the [raw Markdown for this file](https://raw.githubusercontent.com/curateteaching/digitalpedagogy/master/keywords/!template.md) and replace it with your own content.**
-
-Please email your assigned editor with any questions or concerns. Your assigned editor is the person who contacted you with details about this template.
-
-# KEYWORD
-
-## AUTHOR(S)
-Institutional Affiliation (if any) | Website
+## SHAWN GRAHAM
+Carleton University, Ottawa | http://electricarchaeology.ca
 
 ---
 
 ##### Publication Status:
-* unreviewed draft
+* **unreviewed draft**
 * draft version undergoing editorial review
 * draft version undergoing peer-to-peer review
-* published 
+* published
 
---- 
+---
 
 ## CURATORIAL STATEMENT (roughly 750-800 words, MLA Format)
 
-The curatorial statement expresses your vision of the keyword — what it means in a pedagogical context and how you approached the task of curating pedagogical artifacts around it. Statements can include some or all of the following: 
+TThe essay looms large in the minds of our students as the thing above all else that historians _do_. "How many pages? How many words? How many sources?" They know the game. If it isn't an essay, students balk, students resist. With good reason: the status quo signifier for historical seriousness, for scholarship, is indeed the essay (and its longer cousin, the monograph)(cf b&m 2015, p39). Digital work that transgresses this 'compulsory figure' (O'Donnell, 2012) is only slowly being recognized (Gibbs 2016; Robertson 2016; but see also the posts by Sheila Brennan listed below on reviews of digital work in academic scholarship). Since how we practice our scholarship informs our teaching, this transgression is what marks the difference between a digital pedagogy and mere online learning.  Online education is about the compulsory figures of academia, of recreating a controllable, observable classroom through a system that watches and monitors everything.  Essays are easy to track, easy to turn-it-in. Compulsory figures lend themselves well to instrumentalization. If we think of being a student as a kind of game with a clear end goal in mind (credentialism), then complete the compulsory figures to win.
 
-* Vision statement (how do you envision or understand this keyword and its relation to pedagogy?)
-* Scholarly rationale for selections 
-* Criteria for selections (why were the specific curated artifacts selected?) 
-* Important issues (why teach this now? why does this topic matter for students? for faculty? for a field? what makes this keyword unique or exemplary for digital pedagogy?) 
-* Particular intersections with your pedagogical philosophy/teaching conditions (how and where do you teach issues related to this keyword? in what course(s)? with what learning expectations/outcomes in mind? with or without what resources? what are your students' backgrounds, interests, or investments?) 
+Digital pedagogy by its transgressive nature cannot easily fit inside the systems that manage our learning. A digital pedagogy (however instantiated) pushes beyond compulsory figures and breaks the game, whilst online learning merely reinforces them. Students will understandably resist. But we must make the case, otherwise we risk undermining the very project of the university.
 
-Unless it draws upon your first-person experience in the classroom, please limit the use of first person. 
+Here, I have selected artifacts that plot a way forward for expanding the realm of the possible, for showing how an expanded universe of historical writing can be folded into one's digital pedagogy in a way that transgresses the replicated-classroom model of online education.  My vision of what history means as a keyword in digital pedagogy is to remember what the _spirit_ of the essay ( _essayer_, to try) entails. It was a public exercise, a kind of dialogue. To write an essay was to sketch out an experience, an argument, a world where things might be different than they are here: that is, a simulation. Simulations and games, playful experiences, in public: digital pedagogy in history expands and reinvents the essay in a form fitting for the age. Indeed, this vision is very public facing and helps to turn our teaching inside-out; the teaching of history becomes a kind of public history in this model.
+
+The artefacts collected below represent key moments/movements/examples that lay a pathway for us to employ this vision of a digital pedagogy of history, whether that teaching takes place in a classroom or in public, online or off. Many universities have a course called the Historian s craft or something similar on the catalogue: so let us stop writing and start crafting. A digital pedagogy is a pedagogy of making, a pedagogy of playing to see what happens next, whether the resulting object is digital or analogue. Digital; digits; fingers; play.
+
+The artefacts are arranged in an order that should facilitate the integration of digital pedagogies into one's teaching and research.
 
 ## CURATED ARTIFACTS (ten artifacts, each with metadata, a screenshot, and a 150-word annotation)
 
-Select ten pedagogical artifacts (no more, no less) to feature for your keyword. The emphasis should be the everyday stuff of teaching, not after-the-fact reflections on teaching. These artifacts should demonstrate what you and others use to teach your keyword. What teaching and learning projects do you turn to when crafting your teaching materials? What prompts or assignments have inspired you? Which or whose syllabi have you borrowed from, revised, or built upon? Put this way, pedagogical artifacts may include (but are not limited to) syllabi, teaching guidelines, assignments, lesson plans, course sites, learning objective, collaborative projects, and even student work. A balanced variety of artifacts types is optimal.
+## What's Wrong with Writing Essays?
+![img](/img/history-MarkSample-wrong-with-essays.png)
++ Artifact Type: description of an assignment that imagines 'writing' to be more akin to 'making'
++ Source URL:http://www.samplereality.com/2009/03/12/whats-wrong-with-writing-essays/
++ Artifact Permissions: no license appears.
+Copy of the Artifact (in HTML, PDF, DOCX, TXT, MD, RTF, MP3, MP4, MOV, PNG, or JPG), if possible
++ Creator and Affiliation: Mark Sample, Davidson College
 
-For each of your ten artifacts, please provide: 
+This piece crystalizes the issue around essays: we are too much concerned with 'form' and forgetting about 'content'. Sample points out that 'text' derives from the Latin 'to weave', and uses that metaphor to suggest expanding the range of possibilities. Accordingly, Sample offers an example of an assignment designed to 'take the words out of writing', a prompt to create an 'abstract mapping' of a videogame's underlying complexity and representation of the world. A similar prompt could be devised for domains beyond the representation of history in videogames, for instance, the organization of an archival fonds.
 
-* Title of Artifact (as it appears on the actual "document")
-* Artifact Type: Pedagogical artifacts may include (but are not limited to) syllabi, teaching guidelines, assignments, lesson plans, course sites, learning objective, collaborative projects, and even student work.
-* Screenshot (PNG or JPG), titled “keyword artifact title,” e.g. “work-AfAm-syllabus.png”
-* Source URL 
-* Artifact Permissions (note whether content is shared under a Creative Commons license)
-* Copy of the Artifact (in HTML, PDF, DOCX, TXT, MD, RTF, MP3, MP4, MOV, PNG, or JPG), if possible 
-* Creator and Affiliation
-* An annotation of **no more than 150 words** that includes:
-	* Brief statement of aim/purpose of the artifact (what is it?) 
-	* Brief statement on its relevance to your keyword (why is it important/useful, what does it do well, how does it exemplify digital pedagogy) 
-	* Guidelines for use (how to integrate it into a course, what might need revision/adaptation)
+## The Unessay
+![img](/img/history-odonnell-unessay.png)
++ Artifact Type: assignment prompt
++ Source Url: http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay
++ Artefact Permissions: CC BY-NC-SA 3.0
++ Creator and Affiliation: Daniel Paul O'Donnell, University of Lethbridge
 
-Please order the artifacts purposefully -- either alphabetically (according to title or author) or in an order that denotes a different taxonomy (e.g., from beginner to expert level use).
+This piece similarly documents problems with 'essays' as they have come to be in the modern undergraduate classroom. What's more, it provides a framework for re-situating them as digital pedagogy, returning agency to the student, and an entirely useful set of criteria for assessing work that does not look like traditional forms. The criteria provided can be transformed into a rubric with two criteria, that the work is 'compelling' and 'effective'.
 
-We have begun a list of FAQ in a ReadMe file (https://github.com/curateteaching/digitalpedagogy/blob/master/README.md) in addition to a description of the project (https://github.com/curateteaching/digitalpedagogy/blob/master/description.md) and all other keywords (https://github.com/curateteaching/digitalpedagogy/blob/master/listOfKeywords.md). 
+## Open Notebook History
+![img](/img/history-wcalebmcdaniel-wiki-screenshot.png)
++ Artifact Type: blog reflection
++ Source Url: http://wcm1.web.rice.edu/open-notebook-history.html
++ Artefact Permissions: CC BY-SA 3.0
++ Creator and Affiliation: W. Caleb McDaniel, Rice University
+McDaniel opens a dialogue with proponents of so-called 'open notebook science', and situates it within practices familiar to historians (a process similar to what Chad Black has called, ['Hacking the Papers of You'](https://parezcoydigo.wordpress.com/2010/05/28/the-individual-research-archive-hacking-the-papers-of-you/)). McDaniel argues that we cannot know the full value of what we have until we allow others to see it; if we did so, while the work was in progress, "we also open new avenues of interpretation, uncover new linkages between things we would otherwise have persisted in seeing as unconnected, and create new opportunities for collaboration with fellow travelers." He outlines the use of Gitit, a personal wiki program combined with Git versioning control, for maintaining such a notebook. Gitit has a steep learning curve; others might want to use a combination of text editor and github repository to achieve the same effect.
 
-Feel free to push these artifacts to a server for remote access, and then send us the URL. Or you can create your own GitHub repo for this work. In your Markdown file, you can just include file names (e.g., keyword screenshot1.png) for our reference, with the annotations and other information following them. Ultimately, all of your artifacts will be integrated in this repository (curateteaching/digitalpedagogy). 
+## Writing in Public
+![img](/img/history-moravec-writinginpublic.png)
++ Artifact Type: web page
++ Source Url: http://michellemoravec.com/michelle-moravec/
++ Artefact Permissions: no license provided
++ Creator and Affiliation: Michelle Moravec, Rosemont College
+  This page is a landing page for Moravec's writing projects; her goal in writing in public is to demystify the processes of academic labour. She situates this goal within her research on women's liberation movements, as part of a tradition of work that breaks down the boundaries between public and private 'to reveal the politics underneath'. Moravec provides links to projects in progress, and projects completed. She uses a combination of google docs, twitter hashtags, and curated shortlinks to keep track of her readers' engagement with her work.
 
-Once we receive your entry, we will review and edit it (where necessary), return the proof to you (for approval/revision), and then forward the approved proof to the MLA. The entire GitHub Repository is now available online for view by the public; if you wish your keyword-in-process during this first phase to remain private, please let us know. 
+## Who do you think you are?
+![img](/img/history-cottom-who-do-you-think-you-are.png)
++ Artefact Type: journal article
++ Source Url: http://adanewmedia.org/2015/04/issue7-mcmillancottom/
++ Artefact Permissions: CC BY-SA 4.0
++ Creator and Affiliation: Tressie McMillan Cottom, Virginia Commonwealth University
+It can be dangerous when we break down the walls of our teaching and research, and expose these processes to the wider world. In "Who do you think you are?", Tressie McMillan Cottom analyzes the sociology of the performative attention economy of online work. She exposes the ways that if you don't look like a white man onine, what can or cannot be done in terms of a public-facing digital work becomes much more complicated and  dangerous. The piece serves as a counterbalance to the artefacts discussed above.
 
-Later, the keyword and the entire *Digital Pedagogy in the Humanities* collection will be made available online (open access) for open review. That said, please let us know if you have any questions or concerns about the open review process, or about rendering your work discoverable online. In the interests of transparency, I should note that we are still fleshing out the particulars of this review process with the MLA, and we want to keep our curators' needs and interests in mind as we do so.  
+## Digital Atlas of Egyptian Archaeology (DAEA)
+![img](/img/history-anthro-class-msu-daea.png)
++ Artefact Type: class project
++ Source Url: https://matrix-msu.github.io/daea/ (Source code at [https://github.com/matrix-msu/daea](https://github.com/matrix-msu/daea))
++ Artefact Permissions: No license provided
++ Creator and Affiliation: Students in the Fall 2014 semester in the Archaeology of Ancient Egypt class (ANP 455) at Michigan State University, led by Ethan Watrall and supported by Brian Geyer.
+The DAEA as a work of collaborative scholarship exemplifies many of the ideas that the previous artefacts point towards. Moreover, the act of putting the source code online allows this student scholarship to be leveraged by other students, expanded, and transmogrified. Christina Ross forked this and repurposed it to become a microhistory of St. John's, Newfoundland http://xtina-r.github.io/daea/, which was then repurposed and extended by Rob Blades (in progress: http://pembrokesoundscapes.ca). Ross's version is on the syllabus in Jeffery McClurken's 'Adventures in Digital History'. http://courses.mcclurken.org/adh/syllabus/). The DAEA shows ways that student work can have impact beyond the classroom.
+
+## The HeritageJam
+![img](/img/history-heritagejam.png)
++ Artefact Type: website
++ Source Url: http://heritagejam.org
++ Artefact Permissions:
++ Creator and Affiliation: Andrew Masinton, Sarah Perry, Tara Copplestone, Izzy Bartley. University of York.
+Having just gone through its second iteration, the Heritage Jam is an annual two-day event, where participants collaborate to make something along a particular theme, from a particular collection, with a decidedly public-facing inflection. It brings together participants both live (in a kind of camp-out) and online. Aside from the wonderful things participants make, the Jam rules require them to document the _paradata_ that supports the work. The paradata document draws on a long history in archaeological research of visualizations and making (there is an entire subfield, 'experimental archaeology', which has strong affinities to digital humanities pedagogy and deformance) as codified in the 2009 London Charter of Heritage Visualization (http://www.londoncharter.org/) . Paradata "provide the space through which we communicate ambiguity and transparency, and account for our practices". In this way, the viewers learn how to think critically about the construction of the past.
+
+## TEI Close Reading Exercise
+![img](/img/history-beals-close-reading.png)
++ Artefact Type: exercise
++ Source Url: https://github.com/mhbeals/TEI-Close-Reading
++ Artefact Permissions: CC-BY
++ Creator and Affiliation: Melodee Beals, Loughborough University
+While marking up text and annotation has long been a staple of digital humanities work, Beal's exercise does the necessary heavy lifting to make it clear how one could teach TEI, and the pedagogical value of a digitally informed close reading. This exercise demonstrates how exposing our research and teaching to the world (in this case, via a repository on Github) builds teaching capacity for the rest of us.
+
+## Every Three Minutes
+![img](/img/history-wcalebmcdaniel-every3minutes.png)
++ Artefact Type: twitter robot
++ Source Url: https://twitter.com/every3minutes, associated post detailing why 3 minutes, and the source research at http://wcm1.web.rice.edu/slave-sales-on-twitter.html
++ Artefact Permissions:
++ Creator and Affiliation: W. Caleb McDaniel, Rice University
+Our teaching and research, when freed from the confines of an essay, can literally have a kind of algorithmic agency (what Mark Sample calls a ['bot of conviction']( https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa#.k7zhd3p6e)). Such a creature directly confronts the public with the past. Originally devised as a backdrop to a classroom lecture, the affordances of the online medium, of twitter-as-platform-for-building, are used to devastating effect in the regular monotony of an update, every three minutes. Zach Whalen has an excellent tutorial on how to make simple twitter bots at [http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/)
+
+## The Programming Historian, issue #152
+![img](/img/history-crymbleetal-proghist.png)
++ Artefact Type: issues thread
++ Source Url:https://github.com/programminghistorian/jekyll/issues/152)
++ Artefact Permissions: presumably CC-BY
++ Creator and Affiliation: Adam Crymble, Miriam Posner, et al.
+[The Programming Historian team](http://programminghistorian.org) has long sought to make the processes of publication, peer review, of digital work in History, transparent and accountable. This thread in particular, with its thoughtful and wide-ranging discussion, which does not shy away from some hard truths shows a community of practice around digital pedagogy and capacity building wrestling with an issue in a way that is collegial, humble, and open. At the end of the thread, the discussion will continue with a workshop <https://digitalhistorymentorship.wordpress.com/>.
+
+Digital pedagogy in history changes not just how we teach, but how we _do_, history - how we work on our own, with colleagues, with students, and with the public. All of these pieces are essays in the sense of _essayer_ to try, to experiment, to change the world a little bit.
 
 ## RELATED MATERIALS
 
@@ -67,12 +118,12 @@ In MLA format, list five related items that are informative for teaching with yo
 
 For each item, include Author, Title, and URL, in alphabetical order.
 
-Items may include, but are not limited to: 
+Items may include, but are not limited to:
 * Scholarly journal article
-* Book 
+* Book
 * Video, audio, or other dynamic media
-* Crowdsourced document 
-* Blog post 
+* Crowdsourced document
+* Blog post
 
 ## WORKS CITED
 
