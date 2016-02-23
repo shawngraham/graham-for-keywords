@@ -4,6 +4,7 @@
 _(ha, bit of a slip there. should be 'keywords', but I like the word, 'keywork')_
 
 
+
 ## What's Wrong with Writing Essays?
 ![img](/img/history-MarkSample-wrong-with-essays.png)
 + Artifact Type: description of an assignment that imagines 'writing' to be more akin to 'making'
