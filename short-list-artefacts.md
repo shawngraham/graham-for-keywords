@@ -1,9 +1,8 @@
 
 # Artefacts for Keywork, 'history'
 
-(ha, bit of a slip there. should be 'keywords', but I like the word, 'keywork')
+_(ha, bit of a slip there. should be 'keywords', but I like the word, 'keywork')_
 
-Of course, lots of my artefacts are not necessarily built by card-carrying historians. I suspect that doesn't matter, right? Anyway...
 
 ## What's Wrong with Writing Essays?
 ![img](/img/history-MarkSample-wrong-with-essays.png)
