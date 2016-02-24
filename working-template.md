@@ -149,11 +149,15 @@ Robertson, Stephen. "Reviewing Digital History: An Exchange on Digital Harlem in
 
 ## Artefacts
 
-Sample, Mark. "What's Wrong With Writing Essays?" Weblog post. _Sample Reality_. N.p., 12 Mar. 2009. Web. <http://www.samplereality.com/2009/03/12/whats-wrong-with-writing-essays/>.
+Cottom, Tressie McMillan. ""Who Do You Think You Are?": When Marginality Meets Academic Microcelebrity." _Ada: A Journal of Gender, New Media, & Technology_ 7 (2015). Web. <http://adanewmedia.org/2015/04/issue7-mcmillancottom/>.
+
+McDaniel, W. Caleb. "Open Notebook History." Weblog post. _W. Caleb McDaniel_. 22 May 2013. Web. 24 Feb. 2016. <http://wcm1.web.rice.edu/open-notebook-history.html>
+
+Moravec, Michelle. "Writing in Public." _Michelle Moravec_. 11 Jan. 2013. Web. 24 Feb. 2016. <http://michellemoravec.com/michelle-moravec/>.
 
 O'Donnell, Daniel Paul. "The Unessay." Weblog post. _Daniel Paul O'Donnell_. 4 Sept. 2012. Web. 24 Feb. 2016. <http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay>
 
-McDaniel, W. Caleb. "Open Notebook History." Weblog post. _W. Caleb McDaniel_. 22 May 2013. Web. 24 Feb. 2016. <http://wcm1.web.rice.edu/open-notebook-history.html>
+Sample, Mark. "What's Wrong With Writing Essays?" Weblog post. _Sample Reality_. N.p., 12 Mar. 2009. Web. <http://www.samplereality.com/2009/03/12/whats-wrong-with-writing-essays/>.
 
 ## Related Materials
 
