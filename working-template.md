@@ -114,16 +114,15 @@ Digital pedagogy in history changes not just how we teach, but how we _do_, hist
 
 ## RELATED MATERIALS
 
-In MLA format, list five related items that are informative for teaching with your keyword in mind. **Please only include five items. No more, no less.**
+Elliot, Devon, Robert MacDougall, and William Turkel. "New Old Things: Fabrication, Physical Computing, and Experiment in Historical Practice." _Canadian Journal of Communication 37.1_ (2012). Web. <http://www.cjc-online.ca/index.php/journal/article/view/2506>.
 
-For each item, include Author, Title, and URL, in alphabetical order.
+Kelly, Mills. _Teaching History in the Digital Age_. Ann Arbor, MI: U of Michigan Press, 2013. Web. <http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12146032.0001.001;rgn=full text;view=toc;xc=1;g=dculture>.
 
-Items may include, but are not limited to:
-* Scholarly journal article
-* Book
-* Video, audio, or other dynamic media
-* Crowdsourced document
-* Blog post
+Lutz, John, Ruth Sandwell, et. al. "We Need Your Help!" _Great Unsolved Mysteries in Canadian History._ Canadian Heritage / University of Victoria, 1997. Web. 24 Feb. 2016. <http://canadianmysteries.ca/en/index.php>.
+
+Nowviskie, Bethany. “Ludic Algorithms.” In _Pastplay: Teaching and Learning History with Technology_, edited by Kevin Kee, 139-71. Ann Arbor: University of Michigan Press, 2014. Web. <http://quod.lib.umich.edu/d/dh/12544152.0001.001/1:5/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#5.3>
+
+Terras, Melissa. "A Virtual Tomb for Kelvingrove: Virtual Reality, Archaeology and Education." _Internet Archaeology_ 7. Department of Archaeology, York University, 1 Dec. 1999. Web. 24 Feb. 2016. <http://intarch.ac.uk/journal/issue7/terras/>.
 
 ## WORKS CITED
 
@@ -147,7 +146,7 @@ O'Donnell, Daniel Paul. "The Unessay." Weblog post. _Daniel Paul O'Donnell_. 4 S
 
 Robertson, Stephen. "Reviewing Digital History: An Exchange on Digital Harlem in the American Historical Review." Web log post. _Dr Stephen Robertson_. N.p., 11 Feb. 2016. Web. 24 Feb. 2016. <http://drstephenrobertson.com/article/reviewing-digital-history-digital-harlem-in-the-american-historical-review/>
 
-## Artefacts
+### Artefacts
 
 ANP 455. "Digital Atlas of Egyptian Archaeology." Digital Atlas of Egyptian Archaeology. _MATRIX_, Michigan State University, Fall 2014. Web. 24 Feb. 2016. <https://matrix-msu.github.io/daea/>
 
@@ -168,7 +167,3 @@ Moravec, Michelle. "Writing in Public." _Michelle Moravec_. 11 Jan. 2013. Web. 2
 O'Donnell, Daniel Paul. "The Unessay." Weblog post. _Daniel Paul O'Donnell_. 4 Sept. 2012. Web. 24 Feb. 2016. <http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay>
 
 Sample, Mark. "What's Wrong With Writing Essays?" Weblog post. _Sample Reality_. N.p., 12 Mar. 2009. Web. <http://www.samplereality.com/2009/03/12/whats-wrong-with-writing-essays/>.
-
-## Related Materials
-
-A works cited for all references in your entry, including your ten artifacts, your five related materials, and anything referenced in your curatorial statement in MLA style.  
