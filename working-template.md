@@ -151,11 +151,15 @@ Robertson, Stephen. "Reviewing Digital History: An Exchange on Digital Harlem in
 
 ANP 455. "Digital Atlas of Egyptian Archaeology." Digital Atlas of Egyptian Archaeology. _MATRIX_, Michigan State University, Fall 2014. Web. 24 Feb. 2016. <https://matrix-msu.github.io/daea/>
 
-Beals, Melodee. "TEI Close Reading." _GitHub_. 30 Dec. 2014. Web. 24 Feb. 2016. <https://github.com/mhbeals/TEI-Close-Reading>.
+Beals, Melodee. "TEI Close Reading." _GitHub.com/mhbeals_. 30 Dec. 2014. Web. 24 Feb. 2016. <https://github.com/mhbeals/TEI-Close-Reading>.
 
 Cottom, Tressie McMillan. ""Who Do You Think You Are?": When Marginality Meets Academic Microcelebrity." _Ada: A Journal of Gender, New Media, & Technology_ 7 (2015). Web. <http://adanewmedia.org/2015/04/issue7-mcmillancottom/>.
 
+Crymble, Adam, Miriam Posner, et. al. "How Can We Make the PH More Friendly for Women to Contribute? · Issue #152" _GitHub.com/programminghistorian_. 8 Nov. 2015. Web. 24 Feb. 2016. <https://github.com/programminghistorian/jekyll/issues/152>
+
 Masinton, Anthony, Sarah Perry, Tara Copplestone, and Izzy Bartley. "The Heritage Jam." _The Heritage Jam_. Department of Archaeology, York University, 2014. Web. 24 Feb. 2016. <http://www.heritagejam.org/>.
+
+McDaniel, W. Caleb. "@Every3Minutes." _Twitter_, 15 Nov. 2014. Web. 24 Feb. 2016. <https://twitter.com/every3minutes>.
 
 McDaniel, W. Caleb. "Open Notebook History." Weblog post. _W. Caleb McDaniel_. 22 May 2013. Web. 24 Feb. 2016. <http://wcm1.web.rice.edu/open-notebook-history.html>
 
