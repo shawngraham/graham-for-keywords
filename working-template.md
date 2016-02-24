@@ -74,7 +74,7 @@ It can be dangerous when we break down the walls of our teaching and research, a
 ![img](/img/history-anthro-class-msu-daea.png)
 + Artefact Type: class project
 + Source Url: https://matrix-msu.github.io/daea/ (Source code at [https://github.com/matrix-msu/daea](https://github.com/matrix-msu/daea))
-+ Artefact Permissions: No license provided
++ Artefact Permissions: GNU General Public License
 + Creator and Affiliation: Students in the Fall 2014 semester in the Archaeology of Ancient Egypt class (ANP 455) at Michigan State University, led by Ethan Watrall and supported by Brian Geyer.
 The DAEA as a work of collaborative scholarship exemplifies many of the ideas that the previous artefacts point towards. Moreover, the act of putting the source code online allows this student scholarship to be leveraged by other students, expanded, and transmogrified. Christina Ross forked this and repurposed it to become a microhistory of St. John's, Newfoundland http://xtina-r.github.io/daea/, which was then repurposed and extended by Rob Blades (in progress: http://pembrokesoundscapes.ca). Ross's version is on the syllabus in Jeffery McClurken's 'Adventures in Digital History'. http://courses.mcclurken.org/adh/syllabus/). The DAEA shows ways that student work can have impact beyond the classroom.
 
@@ -149,7 +149,13 @@ Robertson, Stephen. "Reviewing Digital History: An Exchange on Digital Harlem in
 
 ## Artefacts
 
+ANP 455. "Digital Atlas of Egyptian Archaeology." Digital Atlas of Egyptian Archaeology. _MATRIX_, Michigan State University, Fall 2014. Web. 24 Feb. 2016. <https://matrix-msu.github.io/daea/>
+
+Beals, Melodee. "TEI Close Reading." _GitHub_. 30 Dec. 2014. Web. 24 Feb. 2016. <https://github.com/mhbeals/TEI-Close-Reading>.
+
 Cottom, Tressie McMillan. ""Who Do You Think You Are?": When Marginality Meets Academic Microcelebrity." _Ada: A Journal of Gender, New Media, & Technology_ 7 (2015). Web. <http://adanewmedia.org/2015/04/issue7-mcmillancottom/>.
+
+Masinton, Anthony, Sarah Perry, Tara Copplestone, and Izzy Bartley. "The Heritage Jam." _The Heritage Jam_. Department of Archaeology, York University, 2014. Web. 24 Feb. 2016. <http://www.heritagejam.org/>.
 
 McDaniel, W. Caleb. "Open Notebook History." Weblog post. _W. Caleb McDaniel_. 22 May 2013. Web. 24 Feb. 2016. <http://wcm1.web.rice.edu/open-notebook-history.html>
 
