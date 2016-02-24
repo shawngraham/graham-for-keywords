@@ -13,9 +13,9 @@ Carleton University, Ottawa | http://electricarchaeology.ca
 
 ---
 
-## CURATORIAL STATEMENT 
+## CURATORIAL STATEMENT
 
-The essay looms large in the minds of our students as the thing above all else that historians _do_. "How many pages? How many words? How many sources?" They know the game. If it isn't an essay, students balk, students resist. With good reason: the status quo signifier for historical seriousness, for scholarship, is indeed the essay (and its longer cousin, the monograph)(cf b&m 2015, p39). Digital work that transgresses this 'compulsory figure' (O'Donnell, 2012) is only slowly being recognized (Gibbs 2016; Robertson 2016; but see also the posts by Sheila Brennan listed below on reviews of digital work in academic scholarship). Since how we practice our scholarship informs our teaching, this transgression is what marks the difference between a digital pedagogy and mere online learning.  Online education is about the compulsory figures of academia, of recreating a controllable, observable classroom through a system that watches and monitors everything.  Essays are easy to track, easy to turn-it-in. Compulsory figures lend themselves well to instrumentalization. If we think of being a student as a kind of game with a clear end goal in mind (credentialism), then complete the compulsory figures to win.
+The essay looms large in the minds of our students as the thing above all else that historians _do_. "How many pages? How many words? How many sources?" They know the game. If it isn't an essay, students balk, students resist. With good reason: the status quo signifier for historical seriousness, for scholarship, is indeed the essay (and its longer cousin, the monograph)(cf Blevins and Mullen 2015, p39). Digital work that transgresses this 'compulsory figure' (O'Donnell, 2012) is only slowly being recognized (Gibbs 2016; Robertson 2016; but see also the posts by Sheila Brennan listed below on reviews of digital work in academic scholarship). Since how we practice our scholarship informs our teaching, this transgression is what marks the difference between a digital pedagogy and mere online learning.  Online education is about the compulsory figures of academia, of recreating a controllable, observable classroom through a system that watches and monitors everything.  Essays are easy to track, easy to turn-it-in. Compulsory figures lend themselves well to instrumentalization. If we think of being a student as a kind of game with a clear end goal in mind (credentialism), then complete the compulsory figures to win.
 
 Digital pedagogy by its transgressive nature cannot easily fit inside the systems that manage our learning. A digital pedagogy (however instantiated) pushes beyond compulsory figures and breaks the game, whilst online learning merely reinforces them. Students will understandably resist. But we must make the case, otherwise we risk undermining the very project of the university.
 
@@ -25,7 +25,7 @@ The artefacts collected below represent key moments/movements/examples that lay 
 
 The artefacts are arranged in an order that should facilitate the integration of digital pedagogies into one's teaching and research.
 
-## CURATED ARTIFACTS 
+## CURATED ARTIFACTS
 
 ## What's Wrong with Writing Essays?
 ![img](/img/history-MarkSample-wrong-with-essays.png)
@@ -126,5 +126,35 @@ Items may include, but are not limited to:
 * Blog post
 
 ## WORKS CITED
+
+### Criteria
+
+Blevins, Cameron, and Lincoln Mullins. "Jane, John ... Leslie? A Historical Method for Algorithmic Gender Prediction." _DHQ: Digital Humanities Quarterly_ 9.3 (2015). <http://www.digitalhumanities.org/dhq/vol/9/3/000223/000223.html>
+
+Brennan, Sheila (@sherah1918). "RE: lack of regular professional review of digital history projects, since 2001, Journal of Am History has reviwed ~275 web projects." February 18, 2016, 10:56 am <https://twitter.com/sherah1918/status/700363335078903809>
+
+Brennan, Sheila (@sherah1918). "Additional 100s were done for History Matters, starting in '99, http://historymatters.gmu.edu/browse/wwwhistory/" February 18, 2016, 11:01 am. <https://twitter.com/sherah1918/status/700364507747590144>
+
+Brennan, Sheila (@sherah1918). "The Public History Resource Center started in 2000, and published digital project reviews for a few years: http://www.publichistory.org/reviews/ " February 18, 2016, 11.03 am. <https://twitter.com/sherah1918/status/700365148251410437>
+
+Brennan, Sheila (@sherah1918). "Also digital history reviews have appeared in Common-Place, The Public Historian. W&M Quarterly started in '99 http://oieahc.wm.edu/wmq/openwmq_digital.cfm" February 18, 2016, 11:08 am. <https://twitter.com/sherah1918/status/700366222832041984>
+
+Sample, Mark. "What's Wrong With Writing Essays?" Weblog post. _Sample Reality_. N.p., 12 Mar. 2009. Web. <http://www.samplereality.com/2009/03/12/whats-wrong-with-writing-essays/>.
+
+Gibbs, Frederick W. "New Forms of History: Critiquing Data and Its Representations." _The American Historian._ Organization of American Historians, Issue 7, Feb. 2016. Web. 24 Feb. 2016. <http://tah.oah.org/february-2016/new-forms-of-history-critiquing-data-and-its-representations/>.
+
+O'Donnell, Daniel Paul. "The Unessay." Weblog post. _Daniel Paul O'Donnell_. 4 Sept. 2012. Web. 24 Feb. 2016. <http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay>.
+
+Robertson, Stephen. "Reviewing Digital History: An Exchange on Digital Harlem in the American Historical Review." Web log post. _Dr Stephen Robertson_. N.p., 11 Feb. 2016. Web. 24 Feb. 2016. <http://drstephenrobertson.com/article/reviewing-digital-history-digital-harlem-in-the-american-historical-review/>
+
+## Artefacts
+
+Sample, Mark. "What's Wrong With Writing Essays?" Weblog post. _Sample Reality_. N.p., 12 Mar. 2009. Web. <http://www.samplereality.com/2009/03/12/whats-wrong-with-writing-essays/>.
+
+O'Donnell, Daniel Paul. "The Unessay." Weblog post. _Daniel Paul O'Donnell_. 4 Sept. 2012. Web. 24 Feb. 2016. <http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay>
+
+McDaniel, W. Caleb. "Open Notebook History." Weblog post. _W. Caleb McDaniel_. 22 May 2013. Web. 24 Feb. 2016. <http://wcm1.web.rice.edu/open-notebook-history.html>
+
+## Related Materials
 
 A works cited for all references in your entry, including your ten artifacts, your five related materials, and anything referenced in your curatorial statement in MLA style.  
